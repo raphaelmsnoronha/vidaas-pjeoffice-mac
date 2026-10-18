@@ -1,0 +1,8 @@
+*.log
+sig.bin
+cert.der
+*.der
+*.pem
+.DS_Store
+/teste
+/t
